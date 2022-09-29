@@ -7,9 +7,8 @@
 1-Singleton Design Pattern.
 2-Strategy Design Pattern.
 3-Factory Method Design.
-4-Decorator Design Pattern.
-5-Builder Design Pattern.
-6-Decorator Design Pattern.
-7-Bridge Design Pattern.
+4-Builder Design Pattern.
+5-Decorator Design Pattern.
+6-Bridge Design Pattern.
 
 AND More Pattern comming soon
