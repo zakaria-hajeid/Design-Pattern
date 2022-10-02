@@ -10,5 +10,7 @@
 4-Builder Design Pattern.
 5-Decorator Design Pattern.
 6-Bridge Design Pattern.
+7-Adapter Design Pattern.
+
 
 AND More Pattern comming soon
