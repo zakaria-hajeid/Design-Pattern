@@ -20,12 +20,21 @@ designPatternSelcrorContext.SetupDesign();*/
 // register Each Configure Moudles
 PrepareModules.PrepareConfigreModules();
 //register Each DesignStreatgy Setup
-foreach (var type in PrepareModules.GetTypeOfDesignSetup())
+
+
+var types = BuileServiceProviderInstance.GetInstance?.serviceProvider?.
+        GetServices<IDesignPatternSelector>();
+
+foreach (var designPatternSelectorUnstance in types)
 {
-    IDesignPatternSelector? designPatternSelectorUnstance = BuileServiceProviderInstance.GetInstance.serviceProvider?.
-        GetService<IDesignPatternSelector>();
-    if (designPatternSelectorUnstance != null)
-        Console.WriteLine($"------------------Call {type.Name}  Pattern Setup Class-------------------------");
-    designPatternSelectorUnstance?.DesigntypeSetup();
+    if (!designPatternSelectorUnstance.GetType().IsAbstract)
+    {
+        if (designPatternSelectorUnstance != null)
+            Console.WriteLine($"------------------Call {designPatternSelectorUnstance.GetType().Name}  Pattern Setup Class-------------------------");
+        designPatternSelectorUnstance?.DesigntypeSetup();
+    }
+
 }
+
+
 

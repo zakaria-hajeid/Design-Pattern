@@ -16,6 +16,7 @@ namespace DesignPattern.ConfigureSetupDesignModule
             services.AddSingleton<IDesignPatternSelector, BridgeSetup>();
             services.AddSingleton<IDesignPatternSelector, BuilderSetupClass>();
             services.AddSingleton<IDesignPatternSelector, DecoratorSetup>();
+            services.AddSingleton<IDesignPatternSelector, AdapterSetup>();
 
 
         }

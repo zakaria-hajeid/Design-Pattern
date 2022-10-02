@@ -33,11 +33,11 @@ namespace DesignPattern
             buileServiceProviderInstance.buildeserviceProvider();
         }
 
-        public static IEnumerable<Type> GetTypeOfDesignSetup()
+       /* public static IEnumerable<Type> GetTypeOfDesignSetup()
         {
             var types = AppDomain.CurrentDomain.GetAssemblies()
     .SelectMany(s => s.GetTypes()).Where(p => typeof(IDesignPatternSelector).IsAssignableFrom(p) && !p.IsAbstract);
             return types;
-        }
+        }*/
     }
 }
