@@ -11,6 +11,6 @@
 5-Decorator Design Pattern.
 6-Bridge Design Pattern.
 7-Adapter Design Pattern.
-
+8-Composite Design Pattern
 
 AND More Pattern comming soon
