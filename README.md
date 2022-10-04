@@ -12,5 +12,6 @@
 6-Bridge Design Pattern.
 7-Adapter Design Pattern.
 8-Composite Design Pattern
+9-Chain Of Repository
 
 AND More Pattern comming soon

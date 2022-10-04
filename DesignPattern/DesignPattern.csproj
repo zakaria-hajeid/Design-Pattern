@@ -15,6 +15,7 @@
     <ProjectReference Include="..\Adapter\Adapter.csproj" />
     <ProjectReference Include="..\BridgeDP\BridgeDP.csproj" />
     <ProjectReference Include="..\BulderDb\BulderDb.csproj" />
+    <ProjectReference Include="..\Chain of Responsibility\Chain of Responsibility.csproj" />
     <ProjectReference Include="..\Composite DP\Composite DP.csproj" />
     <ProjectReference Include="..\Core\Core.csproj" />
     <ProjectReference Include="..\Decorator DP\Decorator DP.csproj" />

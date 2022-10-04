@@ -18,6 +18,7 @@ namespace DesignPattern.ConfigureSetupDesignModule
             services.AddSingleton<IDesignPatternSelector, DecoratorSetup>();
             services.AddSingleton<IDesignPatternSelector, AdapterSetup>();
             services.AddSingleton<IDesignPatternSelector, CompositeSetup>();
+            services.AddSingleton<IDesignPatternSelector, ChainSetup>();
 
 
         }
