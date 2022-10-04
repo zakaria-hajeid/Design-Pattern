@@ -13,7 +13,7 @@ namespace Core
         private static BuileServiceProviderInstance instance = null;
         public IServiceCollection serviceCollection { get; set; }
         public IServiceProvider? serviceProvider { get; set; }
-        public BuileServiceProviderInstance()
+        private BuileServiceProviderInstance()
         {
             serviceCollection = new ServiceCollection();
 
