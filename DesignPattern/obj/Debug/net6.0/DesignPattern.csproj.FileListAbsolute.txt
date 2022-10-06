@@ -1,0 +1,50 @@
+C:\Users\Zakariaba.MOJ\source\repos\DesignPattern\DesignPattern\bin\Debug\net6.0\DesignPattern.exe
+C:\Users\Zakariaba.MOJ\source\repos\DesignPattern\DesignPattern\bin\Debug\net6.0\DesignPattern.deps.json
+C:\Users\Zakariaba.MOJ\source\repos\DesignPattern\DesignPattern\bin\Debug\net6.0\DesignPattern.runtimeconfig.json
+C:\Users\Zakariaba.MOJ\source\repos\DesignPattern\DesignPattern\bin\Debug\net6.0\DesignPattern.dll
+C:\Users\Zakariaba.MOJ\source\repos\DesignPattern\DesignPattern\bin\Debug\net6.0\DesignPattern.pdb
+C:\Users\Zakariaba.MOJ\source\repos\DesignPattern\DesignPattern\bin\Debug\net6.0\BulderDb.dll
+C:\Users\Zakariaba.MOJ\source\repos\DesignPattern\DesignPattern\bin\Debug\net6.0\BulderDb.pdb
+C:\Users\Zakariaba.MOJ\source\repos\DesignPattern\DesignPattern\obj\Debug\net6.0\DesignPattern.csproj.AssemblyReference.cache
+C:\Users\Zakariaba.MOJ\source\repos\DesignPattern\DesignPattern\obj\Debug\net6.0\DesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zakariaba.MOJ\source\repos\DesignPattern\DesignPattern\obj\Debug\net6.0\DesignPattern.AssemblyInfoInputs.cache
+C:\Users\Zakariaba.MOJ\source\repos\DesignPattern\DesignPattern\obj\Debug\net6.0\DesignPattern.AssemblyInfo.cs
+C:\Users\Zakariaba.MOJ\source\repos\DesignPattern\DesignPattern\obj\Debug\net6.0\DesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Zakariaba.MOJ\source\repos\DesignPattern\DesignPattern\obj\Debug\net6.0\DesignPattern.csproj.CopyComplete
+C:\Users\Zakariaba.MOJ\source\repos\DesignPattern\DesignPattern\obj\Debug\net6.0\DesignPattern.dll
+C:\Users\Zakariaba.MOJ\source\repos\DesignPattern\DesignPattern\obj\Debug\net6.0\refint\DesignPattern.dll
+C:\Users\Zakariaba.MOJ\source\repos\DesignPattern\DesignPattern\obj\Debug\net6.0\DesignPattern.pdb
+C:\Users\Zakariaba.MOJ\source\repos\DesignPattern\DesignPattern\obj\Debug\net6.0\DesignPattern.genruntimeconfig.cache
+C:\Users\Zakariaba.MOJ\source\repos\DesignPattern\DesignPattern\obj\Debug\net6.0\ref\DesignPattern.dll
+D:\zakari\design pattern\DesignPattern\DesignPattern\bin\Debug\net6.0\DesignPattern.exe
+D:\zakari\design pattern\DesignPattern\DesignPattern\bin\Debug\net6.0\DesignPattern.deps.json
+D:\zakari\design pattern\DesignPattern\DesignPattern\bin\Debug\net6.0\DesignPattern.runtimeconfig.json
+D:\zakari\design pattern\DesignPattern\DesignPattern\bin\Debug\net6.0\DesignPattern.dll
+D:\zakari\design pattern\DesignPattern\DesignPattern\bin\Debug\net6.0\DesignPattern.pdb
+D:\zakari\design pattern\DesignPattern\DesignPattern\bin\Debug\net6.0\BulderDb.dll
+D:\zakari\design pattern\DesignPattern\DesignPattern\bin\Debug\net6.0\BulderDb.pdb
+D:\zakari\design pattern\DesignPattern\DesignPattern\obj\Debug\net6.0\DesignPattern.csproj.AssemblyReference.cache
+D:\zakari\design pattern\DesignPattern\DesignPattern\obj\Debug\net6.0\DesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\zakari\design pattern\DesignPattern\DesignPattern\obj\Debug\net6.0\DesignPattern.AssemblyInfoInputs.cache
+D:\zakari\design pattern\DesignPattern\DesignPattern\obj\Debug\net6.0\DesignPattern.AssemblyInfo.cs
+D:\zakari\design pattern\DesignPattern\DesignPattern\obj\Debug\net6.0\DesignPattern.csproj.CoreCompileInputs.cache
+D:\zakari\design pattern\DesignPattern\DesignPattern\obj\Debug\net6.0\DesignPattern.csproj.CopyComplete
+D:\zakari\design pattern\DesignPattern\DesignPattern\obj\Debug\net6.0\DesignPattern.dll
+D:\zakari\design pattern\DesignPattern\DesignPattern\obj\Debug\net6.0\refint\DesignPattern.dll
+D:\zakari\design pattern\DesignPattern\DesignPattern\obj\Debug\net6.0\DesignPattern.pdb
+D:\zakari\design pattern\DesignPattern\DesignPattern\obj\Debug\net6.0\DesignPattern.genruntimeconfig.cache
+D:\zakari\design pattern\DesignPattern\DesignPattern\obj\Debug\net6.0\ref\DesignPattern.dll
+D:\zakari\design pattern\DesignPattern\DesignPattern\bin\Debug\net6.0\BridgeDP.dll
+D:\zakari\design pattern\DesignPattern\DesignPattern\bin\Debug\net6.0\BridgeDP.pdb
+D:\zakari\design pattern\DesignPattern\DesignPattern\bin\Debug\net6.0\Decorator DP.dll
+D:\zakari\design pattern\DesignPattern\DesignPattern\bin\Debug\net6.0\Decorator DP.pdb
+D:\zakari\design pattern\DesignPattern\DesignPattern\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\zakari\design pattern\DesignPattern\DesignPattern\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\zakari\design pattern\DesignPattern\DesignPattern\bin\Debug\net6.0\Core.dll
+D:\zakari\design pattern\DesignPattern\DesignPattern\bin\Debug\net6.0\Core.pdb
+D:\zakari\design pattern\DesignPattern\DesignPattern\bin\Debug\net6.0\Adapter.dll
+D:\zakari\design pattern\DesignPattern\DesignPattern\bin\Debug\net6.0\Adapter.pdb
+D:\zakari\design pattern\DesignPattern\DesignPattern\bin\Debug\net6.0\Composite DP.dll
+D:\zakari\design pattern\DesignPattern\DesignPattern\bin\Debug\net6.0\Composite DP.pdb
+D:\zakari\design pattern\DesignPattern\DesignPattern\bin\Debug\net6.0\Chain of Responsibility.dll
+D:\zakari\design pattern\DesignPattern\DesignPattern\bin\Debug\net6.0\Chain of Responsibility.pdb

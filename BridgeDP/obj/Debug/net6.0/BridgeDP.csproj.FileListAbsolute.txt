@@ -1,0 +1,12 @@
+D:\zakari\design pattern\DesignPattern\BridgeDP\obj\Debug\net6.0\BridgeDP.csproj.AssemblyReference.cache
+D:\zakari\design pattern\DesignPattern\BridgeDP\obj\Debug\net6.0\BridgeDP.GeneratedMSBuildEditorConfig.editorconfig
+D:\zakari\design pattern\DesignPattern\BridgeDP\obj\Debug\net6.0\BridgeDP.AssemblyInfoInputs.cache
+D:\zakari\design pattern\DesignPattern\BridgeDP\obj\Debug\net6.0\BridgeDP.AssemblyInfo.cs
+D:\zakari\design pattern\DesignPattern\BridgeDP\obj\Debug\net6.0\BridgeDP.csproj.CoreCompileInputs.cache
+D:\zakari\design pattern\DesignPattern\BridgeDP\bin\Debug\net6.0\BridgeDP.deps.json
+D:\zakari\design pattern\DesignPattern\BridgeDP\bin\Debug\net6.0\BridgeDP.dll
+D:\zakari\design pattern\DesignPattern\BridgeDP\bin\Debug\net6.0\BridgeDP.pdb
+D:\zakari\design pattern\DesignPattern\BridgeDP\obj\Debug\net6.0\BridgeDP.dll
+D:\zakari\design pattern\DesignPattern\BridgeDP\obj\Debug\net6.0\refint\BridgeDP.dll
+D:\zakari\design pattern\DesignPattern\BridgeDP\obj\Debug\net6.0\BridgeDP.pdb
+D:\zakari\design pattern\DesignPattern\BridgeDP\obj\Debug\net6.0\ref\BridgeDP.dll

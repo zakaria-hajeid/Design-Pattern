@@ -1,0 +1,15 @@
+D:\zakari\design pattern\DesignPattern\Decorator DP\bin\Debug\net6.0\Decorator DP.deps.json
+D:\zakari\design pattern\DesignPattern\Decorator DP\bin\Debug\net6.0\Decorator DP.dll
+D:\zakari\design pattern\DesignPattern\Decorator DP\bin\Debug\net6.0\Decorator DP.pdb
+D:\zakari\design pattern\DesignPattern\Decorator DP\obj\Debug\net6.0\Decorator DP.csproj.AssemblyReference.cache
+D:\zakari\design pattern\DesignPattern\Decorator DP\obj\Debug\net6.0\Decorator DP.GeneratedMSBuildEditorConfig.editorconfig
+D:\zakari\design pattern\DesignPattern\Decorator DP\obj\Debug\net6.0\Decorator DP.AssemblyInfoInputs.cache
+D:\zakari\design pattern\DesignPattern\Decorator DP\obj\Debug\net6.0\Decorator DP.AssemblyInfo.cs
+D:\zakari\design pattern\DesignPattern\Decorator DP\obj\Debug\net6.0\Decorator DP.csproj.CoreCompileInputs.cache
+D:\zakari\design pattern\DesignPattern\Decorator DP\obj\Debug\net6.0\Decorator DP.dll
+D:\zakari\design pattern\DesignPattern\Decorator DP\obj\Debug\net6.0\refint\Decorator DP.dll
+D:\zakari\design pattern\DesignPattern\Decorator DP\obj\Debug\net6.0\Decorator DP.pdb
+D:\zakari\design pattern\DesignPattern\Decorator DP\obj\Debug\net6.0\ref\Decorator DP.dll
+D:\zakari\design pattern\DesignPattern\Decorator DP\bin\Debug\net6.0\Core.dll
+D:\zakari\design pattern\DesignPattern\Decorator DP\bin\Debug\net6.0\Core.pdb
+D:\zakari\design pattern\DesignPattern\Decorator DP\obj\Debug\net6.0\Decorator DP.csproj.CopyComplete

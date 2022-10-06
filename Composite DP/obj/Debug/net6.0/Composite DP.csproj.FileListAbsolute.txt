@@ -1,0 +1,15 @@
+D:\zakari\design pattern\DesignPattern\Composite DP\bin\Debug\net6.0\Composite DP.deps.json
+D:\zakari\design pattern\DesignPattern\Composite DP\bin\Debug\net6.0\Composite DP.dll
+D:\zakari\design pattern\DesignPattern\Composite DP\bin\Debug\net6.0\Composite DP.pdb
+D:\zakari\design pattern\DesignPattern\Composite DP\bin\Debug\net6.0\Core.dll
+D:\zakari\design pattern\DesignPattern\Composite DP\bin\Debug\net6.0\Core.pdb
+D:\zakari\design pattern\DesignPattern\Composite DP\obj\Debug\net6.0\Composite DP.csproj.AssemblyReference.cache
+D:\zakari\design pattern\DesignPattern\Composite DP\obj\Debug\net6.0\Composite DP.GeneratedMSBuildEditorConfig.editorconfig
+D:\zakari\design pattern\DesignPattern\Composite DP\obj\Debug\net6.0\Composite DP.AssemblyInfoInputs.cache
+D:\zakari\design pattern\DesignPattern\Composite DP\obj\Debug\net6.0\Composite DP.AssemblyInfo.cs
+D:\zakari\design pattern\DesignPattern\Composite DP\obj\Debug\net6.0\Composite DP.csproj.CoreCompileInputs.cache
+D:\zakari\design pattern\DesignPattern\Composite DP\obj\Debug\net6.0\Composite DP.csproj.CopyComplete
+D:\zakari\design pattern\DesignPattern\Composite DP\obj\Debug\net6.0\Composite DP.dll
+D:\zakari\design pattern\DesignPattern\Composite DP\obj\Debug\net6.0\refint\Composite DP.dll
+D:\zakari\design pattern\DesignPattern\Composite DP\obj\Debug\net6.0\Composite DP.pdb
+D:\zakari\design pattern\DesignPattern\Composite DP\obj\Debug\net6.0\ref\Composite DP.dll

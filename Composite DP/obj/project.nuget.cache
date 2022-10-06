@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "NaTN7YChIfKETtN7FRymLJjB+5/1xEW+zzK4s4tHACgCxGqbJaA+IyG6awCmdmeD2qW/mRrC+cOGT44cJc0BDg==",
+  "success": true,
+  "projectFilePath": "D:\\zakari\\design pattern\\DesignPattern\\Composite DP\\Composite DP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zakariaba.MOJ\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\Zakariaba.MOJ\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Zakariaba.MOJ\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

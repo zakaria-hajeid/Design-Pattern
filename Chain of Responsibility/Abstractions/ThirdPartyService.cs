@@ -8,9 +8,9 @@ namespace Chain_of_Responsibility.Abstractions
 {
      public abstract class ThirdPartyService
     {
-        public ThirdPartyService thirdPartyService;
+        public ThirdPartyService? thirdPartyService;
         public abstract int index { get; }
-        public void SetNextHandlerWhenFaliar(ThirdPartyService thirdPartyService)
+        public void SetNextHandlerWhenFaliar(ThirdPartyService? thirdPartyService)
         {
             this.thirdPartyService = thirdPartyService;
         }

@@ -1,0 +1,516 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\zakari\\design pattern\\DesignPattern\\DesignPattern\\DesignPattern.csproj": {}
+  },
+  "projects": {
+    "D:\\zakari\\design pattern\\DesignPattern\\Adapter\\Adapter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\zakari\\design pattern\\DesignPattern\\Adapter\\Adapter.csproj",
+        "projectName": "Adapter",
+        "projectPath": "D:\\zakari\\design pattern\\DesignPattern\\Adapter\\Adapter.csproj",
+        "packagesPath": "C:\\Users\\Zakariaba.MOJ\\.nuget\\packages\\",
+        "outputPath": "D:\\zakari\\design pattern\\DesignPattern\\Adapter\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Zakariaba.MOJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://tfs.moj.gov.local/nuget/nuget/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\zakari\\design pattern\\DesignPattern\\Core\\Core.csproj": {
+                "projectPath": "D:\\zakari\\design pattern\\DesignPattern\\Core\\Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\zakari\\design pattern\\DesignPattern\\BridgeDP\\BridgeDP.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\zakari\\design pattern\\DesignPattern\\BridgeDP\\BridgeDP.csproj",
+        "projectName": "BridgeDP",
+        "projectPath": "D:\\zakari\\design pattern\\DesignPattern\\BridgeDP\\BridgeDP.csproj",
+        "packagesPath": "C:\\Users\\Zakariaba.MOJ\\.nuget\\packages\\",
+        "outputPath": "D:\\zakari\\design pattern\\DesignPattern\\BridgeDP\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Zakariaba.MOJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://tfs.moj.gov.local/nuget/nuget/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\zakari\\design pattern\\DesignPattern\\BulderDb\\BulderDb.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\zakari\\design pattern\\DesignPattern\\BulderDb\\BulderDb.csproj",
+        "projectName": "BulderDb",
+        "projectPath": "D:\\zakari\\design pattern\\DesignPattern\\BulderDb\\BulderDb.csproj",
+        "packagesPath": "C:\\Users\\Zakariaba.MOJ\\.nuget\\packages\\",
+        "outputPath": "D:\\zakari\\design pattern\\DesignPattern\\BulderDb\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Zakariaba.MOJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://tfs.moj.gov.local/nuget/nuget/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\zakari\\design pattern\\DesignPattern\\Chain of Responsibility\\Chain of Responsibility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\zakari\\design pattern\\DesignPattern\\Chain of Responsibility\\Chain of Responsibility.csproj",
+        "projectName": "Chain of Responsibility",
+        "projectPath": "D:\\zakari\\design pattern\\DesignPattern\\Chain of Responsibility\\Chain of Responsibility.csproj",
+        "packagesPath": "C:\\Users\\Zakariaba.MOJ\\.nuget\\packages\\",
+        "outputPath": "D:\\zakari\\design pattern\\DesignPattern\\Chain of Responsibility\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Zakariaba.MOJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://tfs.moj.gov.local/nuget/nuget/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\zakari\\design pattern\\DesignPattern\\Core\\Core.csproj": {
+                "projectPath": "D:\\zakari\\design pattern\\DesignPattern\\Core\\Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\zakari\\design pattern\\DesignPattern\\Composite DP\\Composite DP.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\zakari\\design pattern\\DesignPattern\\Composite DP\\Composite DP.csproj",
+        "projectName": "Composite DP",
+        "projectPath": "D:\\zakari\\design pattern\\DesignPattern\\Composite DP\\Composite DP.csproj",
+        "packagesPath": "C:\\Users\\Zakariaba.MOJ\\.nuget\\packages\\",
+        "outputPath": "D:\\zakari\\design pattern\\DesignPattern\\Composite DP\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Zakariaba.MOJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://tfs.moj.gov.local/nuget/nuget/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\zakari\\design pattern\\DesignPattern\\Core\\Core.csproj": {
+                "projectPath": "D:\\zakari\\design pattern\\DesignPattern\\Core\\Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\zakari\\design pattern\\DesignPattern\\Core\\Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\zakari\\design pattern\\DesignPattern\\Core\\Core.csproj",
+        "projectName": "Core",
+        "projectPath": "D:\\zakari\\design pattern\\DesignPattern\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\Zakariaba.MOJ\\.nuget\\packages\\",
+        "outputPath": "D:\\zakari\\design pattern\\DesignPattern\\Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Zakariaba.MOJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://tfs.moj.gov.local/nuget/nuget/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\zakari\\design pattern\\DesignPattern\\Decorator DP\\Decorator DP.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\zakari\\design pattern\\DesignPattern\\Decorator DP\\Decorator DP.csproj",
+        "projectName": "Decorator DP",
+        "projectPath": "D:\\zakari\\design pattern\\DesignPattern\\Decorator DP\\Decorator DP.csproj",
+        "packagesPath": "C:\\Users\\Zakariaba.MOJ\\.nuget\\packages\\",
+        "outputPath": "D:\\zakari\\design pattern\\DesignPattern\\Decorator DP\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Zakariaba.MOJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://tfs.moj.gov.local/nuget/nuget/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\zakari\\design pattern\\DesignPattern\\Core\\Core.csproj": {
+                "projectPath": "D:\\zakari\\design pattern\\DesignPattern\\Core\\Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\zakari\\design pattern\\DesignPattern\\DesignPattern\\DesignPattern.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\zakari\\design pattern\\DesignPattern\\DesignPattern\\DesignPattern.csproj",
+        "projectName": "DesignPattern",
+        "projectPath": "D:\\zakari\\design pattern\\DesignPattern\\DesignPattern\\DesignPattern.csproj",
+        "packagesPath": "C:\\Users\\Zakariaba.MOJ\\.nuget\\packages\\",
+        "outputPath": "D:\\zakari\\design pattern\\DesignPattern\\DesignPattern\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Zakariaba.MOJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://tfs.moj.gov.local/nuget/nuget/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\zakari\\design pattern\\DesignPattern\\Adapter\\Adapter.csproj": {
+                "projectPath": "D:\\zakari\\design pattern\\DesignPattern\\Adapter\\Adapter.csproj"
+              },
+              "D:\\zakari\\design pattern\\DesignPattern\\BridgeDP\\BridgeDP.csproj": {
+                "projectPath": "D:\\zakari\\design pattern\\DesignPattern\\BridgeDP\\BridgeDP.csproj"
+              },
+              "D:\\zakari\\design pattern\\DesignPattern\\BulderDb\\BulderDb.csproj": {
+                "projectPath": "D:\\zakari\\design pattern\\DesignPattern\\BulderDb\\BulderDb.csproj"
+              },
+              "D:\\zakari\\design pattern\\DesignPattern\\Chain of Responsibility\\Chain of Responsibility.csproj": {
+                "projectPath": "D:\\zakari\\design pattern\\DesignPattern\\Chain of Responsibility\\Chain of Responsibility.csproj"
+              },
+              "D:\\zakari\\design pattern\\DesignPattern\\Composite DP\\Composite DP.csproj": {
+                "projectPath": "D:\\zakari\\design pattern\\DesignPattern\\Composite DP\\Composite DP.csproj"
+              },
+              "D:\\zakari\\design pattern\\DesignPattern\\Core\\Core.csproj": {
+                "projectPath": "D:\\zakari\\design pattern\\DesignPattern\\Core\\Core.csproj"
+              },
+              "D:\\zakari\\design pattern\\DesignPattern\\Decorator DP\\Decorator DP.csproj": {
+                "projectPath": "D:\\zakari\\design pattern\\DesignPattern\\Decorator DP\\Decorator DP.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

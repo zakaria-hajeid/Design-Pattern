@@ -19,7 +19,7 @@ namespace DesignPattern.DesignSetupConcreateStretegyClasses
 
             for (int i = 0; i < Handlers?.Count-1; i++)
             {
-                Handlers[i]?.SetNextHandlerWhenFaliar(Handlers.Where(j => j.index == (i+1)).FirstOrDefault());
+                Handlers?[i].SetNextHandlerWhenFaliar(Handlers.Where(j => j.index == (i+1)).FirstOrDefault());
 
             }
 

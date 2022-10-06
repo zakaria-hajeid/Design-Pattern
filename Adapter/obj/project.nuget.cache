@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nG1undAdqV8G491kTq2pxXyrKj5NmI+x0YC66Ghko8BinHlsTU/mhhhvZr2L7kvT5/6UBvVgkZ9guL0Ja9NnAg==",
+  "success": true,
+  "projectFilePath": "D:\\zakari\\design pattern\\DesignPattern\\Adapter\\Adapter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zakariaba.MOJ\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\Zakariaba.MOJ\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Zakariaba.MOJ\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

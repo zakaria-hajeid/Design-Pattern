@@ -1,0 +1,24 @@
+C:\Users\Zakariaba.MOJ\source\repos\DesignPattern\BulderDb\bin\Debug\net6.0\BulderDb.deps.json
+C:\Users\Zakariaba.MOJ\source\repos\DesignPattern\BulderDb\bin\Debug\net6.0\BulderDb.dll
+C:\Users\Zakariaba.MOJ\source\repos\DesignPattern\BulderDb\bin\Debug\net6.0\BulderDb.pdb
+C:\Users\Zakariaba.MOJ\source\repos\DesignPattern\BulderDb\obj\Debug\net6.0\BulderDb.csproj.AssemblyReference.cache
+C:\Users\Zakariaba.MOJ\source\repos\DesignPattern\BulderDb\obj\Debug\net6.0\BulderDb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zakariaba.MOJ\source\repos\DesignPattern\BulderDb\obj\Debug\net6.0\BulderDb.AssemblyInfoInputs.cache
+C:\Users\Zakariaba.MOJ\source\repos\DesignPattern\BulderDb\obj\Debug\net6.0\BulderDb.AssemblyInfo.cs
+C:\Users\Zakariaba.MOJ\source\repos\DesignPattern\BulderDb\obj\Debug\net6.0\BulderDb.csproj.CoreCompileInputs.cache
+C:\Users\Zakariaba.MOJ\source\repos\DesignPattern\BulderDb\obj\Debug\net6.0\BulderDb.dll
+C:\Users\Zakariaba.MOJ\source\repos\DesignPattern\BulderDb\obj\Debug\net6.0\refint\BulderDb.dll
+C:\Users\Zakariaba.MOJ\source\repos\DesignPattern\BulderDb\obj\Debug\net6.0\BulderDb.pdb
+C:\Users\Zakariaba.MOJ\source\repos\DesignPattern\BulderDb\obj\Debug\net6.0\ref\BulderDb.dll
+D:\zakari\design pattern\DesignPattern\BulderDb\bin\Debug\net6.0\BulderDb.deps.json
+D:\zakari\design pattern\DesignPattern\BulderDb\bin\Debug\net6.0\BulderDb.dll
+D:\zakari\design pattern\DesignPattern\BulderDb\bin\Debug\net6.0\BulderDb.pdb
+D:\zakari\design pattern\DesignPattern\BulderDb\obj\Debug\net6.0\BulderDb.csproj.AssemblyReference.cache
+D:\zakari\design pattern\DesignPattern\BulderDb\obj\Debug\net6.0\BulderDb.GeneratedMSBuildEditorConfig.editorconfig
+D:\zakari\design pattern\DesignPattern\BulderDb\obj\Debug\net6.0\BulderDb.AssemblyInfoInputs.cache
+D:\zakari\design pattern\DesignPattern\BulderDb\obj\Debug\net6.0\BulderDb.AssemblyInfo.cs
+D:\zakari\design pattern\DesignPattern\BulderDb\obj\Debug\net6.0\BulderDb.csproj.CoreCompileInputs.cache
+D:\zakari\design pattern\DesignPattern\BulderDb\obj\Debug\net6.0\BulderDb.dll
+D:\zakari\design pattern\DesignPattern\BulderDb\obj\Debug\net6.0\refint\BulderDb.dll
+D:\zakari\design pattern\DesignPattern\BulderDb\obj\Debug\net6.0\BulderDb.pdb
+D:\zakari\design pattern\DesignPattern\BulderDb\obj\Debug\net6.0\ref\BulderDb.dll

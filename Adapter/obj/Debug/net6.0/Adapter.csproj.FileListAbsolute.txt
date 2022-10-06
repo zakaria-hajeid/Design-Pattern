@@ -1,0 +1,15 @@
+D:\zakari\design pattern\DesignPattern\Adapter\bin\Debug\net6.0\Adapter.deps.json
+D:\zakari\design pattern\DesignPattern\Adapter\bin\Debug\net6.0\Adapter.dll
+D:\zakari\design pattern\DesignPattern\Adapter\bin\Debug\net6.0\Adapter.pdb
+D:\zakari\design pattern\DesignPattern\Adapter\bin\Debug\net6.0\Core.dll
+D:\zakari\design pattern\DesignPattern\Adapter\bin\Debug\net6.0\Core.pdb
+D:\zakari\design pattern\DesignPattern\Adapter\obj\Debug\net6.0\Adapter.csproj.AssemblyReference.cache
+D:\zakari\design pattern\DesignPattern\Adapter\obj\Debug\net6.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+D:\zakari\design pattern\DesignPattern\Adapter\obj\Debug\net6.0\Adapter.AssemblyInfoInputs.cache
+D:\zakari\design pattern\DesignPattern\Adapter\obj\Debug\net6.0\Adapter.AssemblyInfo.cs
+D:\zakari\design pattern\DesignPattern\Adapter\obj\Debug\net6.0\Adapter.csproj.CoreCompileInputs.cache
+D:\zakari\design pattern\DesignPattern\Adapter\obj\Debug\net6.0\Adapter.csproj.CopyComplete
+D:\zakari\design pattern\DesignPattern\Adapter\obj\Debug\net6.0\Adapter.dll
+D:\zakari\design pattern\DesignPattern\Adapter\obj\Debug\net6.0\refint\Adapter.dll
+D:\zakari\design pattern\DesignPattern\Adapter\obj\Debug\net6.0\Adapter.pdb
+D:\zakari\design pattern\DesignPattern\Adapter\obj\Debug\net6.0\ref\Adapter.dll
