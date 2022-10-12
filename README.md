@@ -13,5 +13,5 @@
 7-Adapter Design Pattern.
 8-Composite Design Pattern
 9-Chain Of Repository
-
+10- Observe Design Pattern
 AND More Pattern comming soon
