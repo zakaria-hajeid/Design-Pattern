@@ -48,3 +48,5 @@ D:\zakari\design pattern\DesignPattern\DesignPattern\bin\Debug\net6.0\Composite 
 D:\zakari\design pattern\DesignPattern\DesignPattern\bin\Debug\net6.0\Composite DP.pdb
 D:\zakari\design pattern\DesignPattern\DesignPattern\bin\Debug\net6.0\Chain of Responsibility.dll
 D:\zakari\design pattern\DesignPattern\DesignPattern\bin\Debug\net6.0\Chain of Responsibility.pdb
+D:\zakari\design pattern\DesignPattern\DesignPattern\bin\Debug\net6.0\Observe.dll
+D:\zakari\design pattern\DesignPattern\DesignPattern\bin\Debug\net6.0\Observe.pdb

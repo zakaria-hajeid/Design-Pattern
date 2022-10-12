@@ -129,6 +129,20 @@
         "runtime": {
           "bin/placeholder/Decorator DP.dll": {}
         }
+      },
+      "Observe/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Core": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Observe.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Observe.dll": {}
+        }
       }
     }
   },
@@ -242,6 +256,11 @@
       "type": "project",
       "path": "../Decorator DP/Decorator DP.csproj",
       "msbuildProject": "../Decorator DP/Decorator DP.csproj"
+    },
+    "Observe/1.0.0": {
+      "type": "project",
+      "path": "../Observe/Observe.csproj",
+      "msbuildProject": "../Observe/Observe.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -253,7 +272,8 @@
       "Composite DP >= 1.0.0",
       "Core >= 1.0.0",
       "Decorator DP >= 1.0.0",
-      "Microsoft.Extensions.DependencyInjection.Abstractions >= 6.0.0"
+      "Microsoft.Extensions.DependencyInjection.Abstractions >= 6.0.0",
+      "Observe >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -304,6 +324,9 @@
             },
             "D:\\zakari\\design pattern\\DesignPattern\\Decorator DP\\Decorator DP.csproj": {
               "projectPath": "D:\\zakari\\design pattern\\DesignPattern\\Decorator DP\\Decorator DP.csproj"
+            },
+            "D:\\zakari\\design pattern\\DesignPattern\\Observe\\Observe.csproj": {
+              "projectPath": "D:\\zakari\\design pattern\\DesignPattern\\Observe\\Observe.csproj"
             }
           }
         }

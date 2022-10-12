@@ -19,6 +19,7 @@
     <ProjectReference Include="..\Composite DP\Composite DP.csproj" />
     <ProjectReference Include="..\Core\Core.csproj" />
     <ProjectReference Include="..\Decorator DP\Decorator DP.csproj" />
+    <ProjectReference Include="..\Observe\Observe.csproj" />
   </ItemGroup>
 
 </Project>

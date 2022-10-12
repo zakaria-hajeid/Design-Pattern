@@ -19,6 +19,7 @@ namespace DesignPattern.ConfigureSetupDesignModule
             services.AddSingleton<IDesignPatternSelector, AdapterSetup>();
             services.AddSingleton<IDesignPatternSelector, CompositeSetup>();
             services.AddSingleton<IDesignPatternSelector, ChainSetup>();
+            services.AddSingleton<IDesignPatternSelector, ObserveSetup>();
 
 
         }

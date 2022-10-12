@@ -1,0 +1,15 @@
+D:\zakari\design pattern\DesignPattern\Observe\bin\Debug\net6.0\Observe.deps.json
+D:\zakari\design pattern\DesignPattern\Observe\bin\Debug\net6.0\Observe.dll
+D:\zakari\design pattern\DesignPattern\Observe\bin\Debug\net6.0\Observe.pdb
+D:\zakari\design pattern\DesignPattern\Observe\bin\Debug\net6.0\Core.dll
+D:\zakari\design pattern\DesignPattern\Observe\bin\Debug\net6.0\Core.pdb
+D:\zakari\design pattern\DesignPattern\Observe\obj\Debug\net6.0\Observe.csproj.AssemblyReference.cache
+D:\zakari\design pattern\DesignPattern\Observe\obj\Debug\net6.0\Observe.GeneratedMSBuildEditorConfig.editorconfig
+D:\zakari\design pattern\DesignPattern\Observe\obj\Debug\net6.0\Observe.AssemblyInfoInputs.cache
+D:\zakari\design pattern\DesignPattern\Observe\obj\Debug\net6.0\Observe.AssemblyInfo.cs
+D:\zakari\design pattern\DesignPattern\Observe\obj\Debug\net6.0\Observe.csproj.CoreCompileInputs.cache
+D:\zakari\design pattern\DesignPattern\Observe\obj\Debug\net6.0\Observe.csproj.CopyComplete
+D:\zakari\design pattern\DesignPattern\Observe\obj\Debug\net6.0\Observe.dll
+D:\zakari\design pattern\DesignPattern\Observe\obj\Debug\net6.0\refint\Observe.dll
+D:\zakari\design pattern\DesignPattern\Observe\obj\Debug\net6.0\Observe.pdb
+D:\zakari\design pattern\DesignPattern\Observe\obj\Debug\net6.0\ref\Observe.dll

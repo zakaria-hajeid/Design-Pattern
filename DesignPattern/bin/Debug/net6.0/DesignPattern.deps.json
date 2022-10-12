@@ -12,7 +12,8 @@
           "BridgeDP": "1.0.0",
           "BulderDb": "1.0.0",
           "Core": "1.0.0",
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
+          "Observe": "1.0.0"
         },
         "runtime": {
           "DesignPattern.dll": {}
@@ -91,6 +92,15 @@
         "runtime": {
           "Decorator DP.dll": {}
         }
+      },
+      "Observe/1.0.0": {
+        "dependencies": {
+          "Core": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0"
+        },
+        "runtime": {
+          "Observe.dll": {}
+        }
       }
     }
   },
@@ -152,6 +162,11 @@
       "sha512": ""
     },
     "Decorator DP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Observe/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
